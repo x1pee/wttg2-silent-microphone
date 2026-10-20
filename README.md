@@ -1,6 +1,8 @@
-# Silent Microphone
+# Silent Microphone — Welcome to the Game II
 
-WTTG2 microphone mute mod. Keeps Discord and other apps working.
+Mute the microphone in Welcome to the Game II (WTTG2) without muting Discord or other apps.
+
+**Скачать:** [готовые файлы](https://github.com/x1pee/wttg2-silent-microphone/releases/tag/v1.0.0).
 
 Игра получает тишину вместо звука микрофона. Настройка «Микрофон» в игре остаётся включённой; код и параметры сложности мини-игр не меняются. Discord, NVIDIA и системный доступ к микрофону не затрагиваются. Это блокировка штатных путей записи внутри WTTG2, а не системный запрет для произвольного EXE.
 
