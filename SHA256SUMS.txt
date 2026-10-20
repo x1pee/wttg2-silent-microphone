@@ -1,1 +1,1 @@
-6580f70ad1e7f9bb704afd5796c0780cc0c41ee7f5234a86ae45dc7fdfa04d47  dist/WTTG2.SilentMicrophone.dll
+ca08e6a529d0110b486fea1a97e4761f4ebc07b370b2acbe8b6e8fb82668228f  dist/WTTG2.SilentMicrophone.dll
